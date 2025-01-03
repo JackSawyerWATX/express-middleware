@@ -21,7 +21,7 @@ This project is a simple Express-based backend that serves a list of products th
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/JackSawyerWATX/express-middleware
 
 2. Navigate to the project directory:
     cd express-middleware
